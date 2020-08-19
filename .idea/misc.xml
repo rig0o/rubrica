@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/company/Data.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/company/array.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/company2/Data.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src\company2" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/company2/Data.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src\com\company2" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/ejemplo2/Array.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/ejemplo1/Data.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/visitor/visitor.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/example/T.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/ArrayInit/ArrayInit.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/listener/listener.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/listener/listenerl.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/pos/Simple.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/example/pos.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/Data/Data.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/com/label/T.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\rmama\IdeaProjects\rubrica\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

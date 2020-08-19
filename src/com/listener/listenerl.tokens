@@ -1,0 +1,5 @@
+TEXTO=1
+STRING=2
+WS=3
+COMA=4
+','=4
